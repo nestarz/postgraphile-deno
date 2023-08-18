@@ -2,6 +2,7 @@
 
 - Works on Deno Deploy
 - Currently needs to have an import_map and can't be used as a library without it
+- Pubsub is not implemented
 
 ### Usage
 ```bash
